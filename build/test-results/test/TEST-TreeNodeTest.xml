@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TreeNodeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-27T05:36:34" hostname="hanyunscBookPro.T-mobile.com" time="0.008">
+  <properties/>
+  <testcase name="returns true" classname="TreeNodeTest" time="0.004"/>
+  <testcase name="returns false" classname="TreeNodeTest" time="0.0"/>
+  <testcase name="returns true" classname="TreeNodeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
